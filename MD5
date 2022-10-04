@@ -1,0 +1,17 @@
+7749354370b286dd6979a5f3d7657ac8 *DESCRIPTION
+3d161149801dc80cea21381750d9ca5e *LICENSE
+055d719f9d7f6ad51b22d2aeafe4f777 *NAMESPACE
+2d4c88b73cd2cf11a167ebc23edd81d0 *NEWS.md
+ed11fd7894c3d8f520c80da379a31138 *R/roughsf.R
+86085e14de959d4eb42485aa2f2478d4 *R/save_roughsf.R
+8c9385684231c553bfee5839163feee9 *README.md
+fe1688b047c2c0f7755a81d858faad43 *inst/htmlwidgets/lib/rough/rough.js
+f2570c717e9f826005179840d91ecde8 *inst/htmlwidgets/roughsf.js
+8e24ddf60f70f0c5bfb93f6b02860ac0 *inst/htmlwidgets/roughsf.yaml
+8e81eb8f981f3efbdd532dc120eee639 *man/figures/africa.png
+0dbf41cc68b364cae3cf040b32aedbf6 *man/figures/example.png
+ad424e0d15bbab28ca70d4405dfe6dd4 *man/figures/germany.png
+a3245841ad4bbe5fbcaf86e18a320112 *man/figures/logo.png
+05ea918885fb475cc6a308cd18eb992c *man/figures/pop_dens_ger.png
+10964751b7d13a81dcc3aae71f4d868d *man/roughsf.Rd
+3878d67cc9fed33ffcaf99259d3a119b *man/save_roughsf.Rd
